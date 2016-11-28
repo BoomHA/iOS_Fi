@@ -113,7 +113,7 @@
                             <tableViewSection headerTitle="金额" id="ZdS-th-OX7">
                                 <cells>
                                     <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" id="yDD-8D-LuL">
-                                        <rect key="frame" x="0.0" y="120" width="375" height="44"/>
+                                        <rect key="frame" x="0.0" y="119.5" width="375" height="44"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="yDD-8D-LuL" id="n4G-BS-N84">
                                             <frame key="frameInset" width="375" height="44"/>
@@ -149,7 +149,7 @@
                             <tableViewSection id="Jsb-mV-pRo">
                                 <cells>
                                     <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" accessoryType="disclosureIndicator" indentationWidth="10" textLabel="Rg3-JD-ArY" detailTextLabel="8AG-li-jw9" style="IBUITableViewCellStyleValue1" id="rE1-KF-9nI">
-                                        <rect key="frame" x="0.0" y="200" width="375" height="44"/>
+                                        <rect key="frame" x="0.0" y="199.5" width="375" height="44"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="rE1-KF-9nI" id="SEv-vU-4lz">
                                             <frame key="frameInset" width="342" height="43.5"/>
@@ -180,7 +180,7 @@
                             <tableViewSection headerTitle="内容" id="7Cy-aM-FVX">
                                 <cells>
                                     <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" id="uxo-DB-6i7">
-                                        <rect key="frame" x="0.0" y="300" width="375" height="44"/>
+                                        <rect key="frame" x="0.0" y="299.5" width="375" height="44"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="uxo-DB-6i7" id="2FI-SB-5I9">
                                             <frame key="frameInset" width="375" height="44"/>
@@ -205,7 +205,7 @@
                             <tableViewSection headerTitle="日期" id="q1U-xF-cyP">
                                 <cells>
                                     <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" id="Fta-Vy-p2I">
-                                        <rect key="frame" x="0.0" y="400" width="375" height="44"/>
+                                        <rect key="frame" x="0.0" y="399.5" width="375" height="44"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="Fta-Vy-p2I" id="BR9-kP-bH6">
                                             <frame key="frameInset" width="375" height="44"/>

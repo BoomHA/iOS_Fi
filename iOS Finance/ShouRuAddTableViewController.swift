@@ -41,7 +41,7 @@ class ShouRuAddTableViewController: UITableViewController {
     }
     
     
-    //日期选择器响应方法
+    /// 日期选择器响应方法
     func addDate(){
         //日期样式
         let formatter = DateFormatter()

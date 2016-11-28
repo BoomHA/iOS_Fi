@@ -14,6 +14,15 @@ class ShouRuInfo: NSObject,NSCoding{
     var time:String
     var kind:String
     
+    
+    /// 收入模型
+    ///
+    /// - parameter money:   钱
+    /// - parameter message: 内容
+    /// - parameter time:    时间
+    /// - parameter kind:    类别
+    ///
+    /// - returns: 返回收入模型
     init(money:String="",message:String="",time:String="",kind:String="")
     {
         self.money = money
