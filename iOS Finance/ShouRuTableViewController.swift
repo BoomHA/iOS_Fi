@@ -42,7 +42,7 @@ class ShouRuTableViewController: UITableViewController {
         return true
     }
     
-    //移动cell事件
+    ///移动cell事件
     override func tableView(_ tableView: UITableView, moveRowAt fromIndexPath: IndexPath,to toIndexPath: IndexPath) {
         if fromIndexPath != toIndexPath{
             //获取移动行对应的值
