@@ -36,12 +36,12 @@ class TotalPrices: UITableViewController {
         for c in zhichuModel.ZhiChuList {
             money += Int(c.money)!
         }
-        TotalShouRu.text = String(money)
+        TotalZhiChu.text = String(money)
         money = 0
         for c in shouruModel.ShouruList {
             money += Int(c.money)!
         }
-        TotalZhiChu.text = String(money)
+        TotalShouRu.text = String(money)
         tableView.reloadData()
     }
 
